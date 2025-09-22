@@ -1,4 +1,4 @@
-# UNIT SELECTION
+## UNIT SELECTION
 ## <ins>Player.cs</ins><br/>
 At this point the Player class contains a public List of Units belonging to player and a boolean method for searching Units.
 ```
