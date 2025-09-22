@@ -9,4 +9,4 @@ $ git checkout <feature_branch>
 In order for the Inputs to work, delete the default input package from the registry. 
 
 ## Contents
-[Selecting Units](#unit-selection)
+[Unit Selection](#unit-selection)
